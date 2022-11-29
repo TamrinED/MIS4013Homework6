@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-<html>
+<?php require_once"header.php"?>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.5.0/Chart.min.js"></script>
 <body>
 <canvas id="myChart" style="width:100%;max-width:600px"></canvas>
