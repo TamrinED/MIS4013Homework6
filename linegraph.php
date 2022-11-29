@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-<html>
+<?php require_once"header.php"?>
 <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
 <body>
 <div id="myChart" style="width:100%; max-width:600px; height:500px;"></div>
