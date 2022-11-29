@@ -1,4 +1,7 @@
-<?php require_once"header.php"?>
+<!DOCTYPE html>
+<html>
+<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+<body>
 
 <div id="myPlot" style="width:100%;max-width:700px"></div>
 
@@ -24,4 +27,6 @@ var layout = {
 Plotly.newPlot("myPlot", data, layout);
 </script>
 
-<?php require_once"footer.php"?>
+</body>
+</html>
+
