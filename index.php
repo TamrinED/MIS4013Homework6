@@ -6,7 +6,7 @@
       <li> <a href="linegraph.php">Line Graph: House Prices vs. Size</a></li>
       <li><a href="plotly.php">Line Plot: House Prices vs. Size</a></li>
       <li><a href="piechart.php">Pie Chart: World Wine Production</a></li>
-      <li> pictureslideshow.php </li>
+      <li><a href="multiplelines.php">Multicolor Lines</a></li>
     </ul>
     
     
