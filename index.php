@@ -1,5 +1,5 @@
 <?php require_once"header.php"?>
-    
+    <body>
     <h1>Homework 6: Javascript Libraries</h1>
 
     <ul>
