@@ -11,7 +11,7 @@
     <h1>Homework 6: Javascript Libraries</h1>
 
     <ul>
-   <li> pictureslideshow.php </li>
+   <li src="pictureslideshow.php">Picture Slideshow</li>
       <li> pictureslideshow.php </li>
       <li> pictureslideshow.php </li>
       <li> pictureslideshow.php </li>
