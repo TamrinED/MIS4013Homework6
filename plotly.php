@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-<html>
+<?php require_once"header.php"?>
 <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
 <body>
 
