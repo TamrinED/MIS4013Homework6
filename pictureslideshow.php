@@ -17,7 +17,7 @@
 
   
 <script>
-w3.slideshow(".nature", 1500px);
+w3.slideshow(".nature", 1500);
 </script>
 
 </body>
