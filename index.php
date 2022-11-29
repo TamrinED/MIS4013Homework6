@@ -4,7 +4,7 @@
 
     <ul>
       <li> <a href="pictureslideshow.php">Picture Slideshow</a></li>
-      <li> pictureslideshow.php </li>
+      <li><a href="plotly.php">Line Plot</a></li>
       <li> pictureslideshow.php </li>
       <li> pictureslideshow.php </li>
     </ul>
